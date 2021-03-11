@@ -5,6 +5,6 @@ public class SumNum{
 		Scanner sc=new Scanner(System.in);
 		a=sc.nextInt();
 		b=sc.nextInt();
-		System.out.println(a*b);
+		System.out.println(a+b);
 	}
 }
